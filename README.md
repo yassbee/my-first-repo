@@ -1,25 +1,26 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Yaroslav Belinskiy
 
-- This is
-- an unordered
-- list
+### Geography
 
-1. This is
-2. an ordered
-3. list
+I live in the city  of Shanghai, in the People's Republic of China.
 
-Here is `some code` in the middle of a sentence.
+### Reading
 
-```
-This is
-a block
-of code
-```
+Three books that might be interesting to read are: 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *Mindstroms* by Seymore Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis*  by Marjane Satrapi
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Food
 
+I have just ordered a late lunch delivery from Element Fresh through Sherpa's.
+My previous deliveries were
+
+1. O'delice cafe
+2. Pushkin
+3. Little K
+
+### Contact
+
+The best way to get in touch with me is ... through LinkedIn
